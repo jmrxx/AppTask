@@ -1,6 +1,8 @@
 # AppTask
-Es una aplicacion web
-Hemos hecho un GRUD --> 
+---
+
+Web para hacer tareas
+
 -- 
 Esta compuesta por: PHP, MYSQL, BOOSTRAP, HTML
 
